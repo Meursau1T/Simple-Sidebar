@@ -1,9 +1,9 @@
 ﻿<h1 align="center">
-  🌸Sakura's Simple Sidebar🌸
+  Sakura's Simple
 </h1>
 
 <h2 align="center">
-  A simple Firefox theme using Sidebery sidebar.
+  A simple Firefox theme using Sidebery sidebar. Forked from Sakura's Simple Sidebar but removed pink accent color and made some other changes.
 </h2>
 
 ## Preview
