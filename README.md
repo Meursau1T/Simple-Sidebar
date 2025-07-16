@@ -3,12 +3,10 @@
 </h1>
 
 <h2 align="center">
-  A simple Firefox theme using Sidebery sidebar. Forked from Sakura's Simple Sidebar but removed pink accent color and made some other changes.
+  A simple Firefox theme using Sidebery sidebar.
 </h2>
 
-## Preview
-
-![](https://github.com/SakuraMeadows/Sakuras-Simple-Sidebar/blob/39908072a7fe102f91658d5df73ce24ad24d6290/page%20assets/SakurasSimpleSidebarExample.gif)
+Forked from Sakura's Simple Sidebar but removed pink accent color and made some other changes.
 
 ## Getting Started
 
