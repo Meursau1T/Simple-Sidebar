@@ -24,3 +24,9 @@
     height: 40px !important;
     background: var(--background-color) !important;
 }
+
+.titlebar-min {
+  & > .toolbarbutton-icon {
+    background-position-y: 1px;
+  }
+}
