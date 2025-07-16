@@ -19,10 +19,10 @@
   border-width: 2px !important;
   border-radius: 5px !important;
 }
-#urlbar:hover > #urlbar-background{
-  border-color: var(--accent-color) !important;
-  border-radius: 5px !important;
-}
+/* #urlbar:hover > #urlbar-background{ */
+/*   border-color: var(--accent-color) !important; */
+/*   border-radius: 5px !important; */
+/* } */
 
 /* Change Color of App Menu Seperator */
 #appMenu-fxa-separator{
@@ -89,9 +89,9 @@ slot{
   border-radius: 10px !important;
   border-width: 2px !important;
 }
-slot:hover{
-  border-color: var(--accent-color) !important;
-}
+/* slot:hover{ */
+/*   border-color: var(--accent-color) !important; */
+/* } */
 
 /* Change color of bookmarks bar text */
 #PlacesToolbar{

@@ -1,6 +1,6 @@
 /* Sidebar Expand on Hover, otherwise Shrink */
 #sidebar-box{
-    --sidebar-normal-width: 40px;
+    --sidebar-normal-width: 48px;
     --sidebar-hover-width: 250px;
     position: fixed !important;
     left: 0 !important;
