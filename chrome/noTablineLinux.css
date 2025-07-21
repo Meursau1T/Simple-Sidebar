@@ -27,6 +27,6 @@
 
 .titlebar-min {
   & > .toolbarbutton-icon {
-    background-position-y: 1px;
+    background-position-y: 1px !important;
   }
 }
